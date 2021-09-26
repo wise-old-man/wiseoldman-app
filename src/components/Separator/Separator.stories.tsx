@@ -11,5 +11,5 @@ export const Horizontal: React.FC = () => {
 };
 
 export const Vertical: React.FC = () => {
-  return <Separator orientation="vertical" style={{ height: 500 }} />;
+  return <Separator orientation="vertical" style={{ height: 400 }} />;
 };
