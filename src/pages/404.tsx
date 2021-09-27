@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import { Container, Panel, ReturnLink, SubTitle, Title, TrollImage } from './styles';
+import { Container, Panel, ReturnLink, SubTitle, Title, TrollImage } from 'styles/404.styles';
 
 const NotFound: React.FC = () => {
   return (
